@@ -346,10 +346,11 @@
       "lname1": "Bottas",
       "points": "null",
       "position": "null",
-      "wins": null,
-      "podiums": null,
+      "wins": "null",
+      "podiums": "null",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/bot.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/VALBOT01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/st.webp"
     }
+    ]
 }
