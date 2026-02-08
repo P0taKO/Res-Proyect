@@ -2,7 +2,7 @@
   "pilotos": [
     {
       "drive": "1",
-      "team" : "Redbull Racing",
+      "team" : "Oracle Redbull Racing",
       "name": "Max verstappen",
       "idname": "MAX",
       "number": "3",
@@ -18,7 +18,7 @@
     },
     {
       "drive": "2",
-      "team" : "Redbull Racing",
+      "team" : "Oracle Redbull Racing",
       "name": "Isack Hadjar",
       "idname": "HAD",
       "number": "6",
@@ -34,7 +34,7 @@
     },
     {
       "drive": "3",
-      "team" : "Mercedes-AMG petronas",
+      "team" : "Mercedes-AMG petronas Formula One Team",
       "name": "George russell",
       "idname": "RUS",
       "number": "63",
@@ -50,7 +50,7 @@
     },
     {
       "drive": "4",
-      "team" : "Mercedes-AMG petronas",
+      "team" : "Mercedes-AMG petronas Formula One Team",
       "name": "Kimi antonelli",
       "idname": "ANT",
       "number": "12",
@@ -66,7 +66,7 @@
     },
     {
       "drive": "5",
-      "team" : "Ferrari hp",
+      "team" : "Scuderia Ferrari hp",
       "name": "Charles leclerc",
       "idname": "LEC",
       "number": "16",
@@ -82,7 +82,7 @@
     },
     {
       "drive": "6",
-      "team" : "Ferrari hp",
+      "team" : "Scuderia Ferrari hp",
       "name": "Lewis hamilton",
       "idname": "HAM",
       "number": "44",
@@ -98,7 +98,7 @@
     },
     {
       "drive": "7",
-      "team" : "Aramco Aston Martin",
+      "team" : "Aston Martin Aramco Formula One Team",
       "name": "Fernando alonso",
       "idname": "ALO",
       "number": "14",
@@ -114,7 +114,7 @@
     },
     {
       "drive": "8",
-      "team" : "Aramco Aston Martin",
+      "team" : "Aston Martin Aramco Formula One Team",
       "name": "Lance stroll",
       "idname": "STR",
       "number": "18",
@@ -130,7 +130,7 @@
     },
     {
       "drive": "9",
-      "team" : "Mclaren f1 team",
+      "team" : "McLaren Mastercard Formula 1 Team",
       "name": "Lando norris",
       "idname": "NOR",
       "number": "4",
@@ -146,7 +146,7 @@
     },
     {
       "drive": "10",
-      "team" : "Mclaren f1 team",
+      "team" : "McLaren Mastercard Formula 1 Team",
       "name": "Oscar piastri",
       "idname": "PIA",
       "number": "81",
@@ -162,7 +162,7 @@
     },
     {
       "drive": "11",
-      "team" : "Alpine f1 team",
+      "team" : "BWT Alpine f1 team",
       "name": "Pierre gasly",
       "idname": "GAS",
       "number": "10",
@@ -178,7 +178,7 @@
     },
     {
       "drive": "12",
-      "team" : "Alpine f1 team",
+      "team" : "BWT Alpine f1 team",
       "name": "Franco Colapinto",
       "idname": "COL",
       "number": "43",
@@ -258,7 +258,7 @@
     },
     {
       "drive": "17",
-      "team" : "Williams Racing",
+      "team" : "Atlassian Williams F1 Team",
       "name": "Alexander albon",
       "idname": "ALB",
       "number": "23",
