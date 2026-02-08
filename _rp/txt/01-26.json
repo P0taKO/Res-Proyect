@@ -12,6 +12,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+      "colortm" : "#3671c6",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/ver.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/MAXVER01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/rb.webp"
@@ -28,6 +29,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+      "colortm" : "#3671c6",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/law.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/LIALAW01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/rb.webp"
@@ -44,6 +46,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+      "colortm" : "#26f5d2",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/rus.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/GEORUS01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/mr1.webp"
@@ -60,6 +63,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+      "colortm" : "#26f5d2",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/ant.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/KIMANT01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/mr1.webp"
@@ -76,6 +80,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+      "colortm" : "#e80220",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/lec.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/CHALEC01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/fr1.webp"
@@ -92,6 +97,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+      "colortm" : "#e80220",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/ham.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/LEWHAM01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/fr1.webp"
@@ -108,6 +114,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+      "colortm" : "#229971",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/alo.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/FERALO01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/as.webp"
@@ -124,6 +131,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+      "colortm" : "#229971",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/str.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/LANSTR01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/as.webp"
@@ -140,6 +148,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+      "colortm" : "#ff8001",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/nor.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/LANNOR01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/mcl.webp"
@@ -156,6 +165,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+      "colortm" : "#ff8001",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/pia.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/OSCPIA01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/mcl.webp"
@@ -172,6 +182,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+      "colortm" : "#0093cc",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/gas.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/PIEGAS01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/al.webp"
@@ -188,6 +199,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+      "colortm" : "#0093cc",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/doo.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/JACDOO01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/al.webp"
@@ -204,6 +216,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+      "colortm" : "#6592ff",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/tsu.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/YUKTSU01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/vrb.webp"
@@ -220,6 +233,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+      "colortm" : "#6592ff",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/had.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/ISAHAD01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/vrb.webp"
@@ -236,6 +250,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+      "colortm" : "#A6A6A6",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/hul.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/NICHUL01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/st.webp"
@@ -252,6 +267,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+      "colortm" : "#A6A6A6",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/bor.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/GABBOR01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/st.webp"
@@ -268,6 +284,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+      "colortm" : "#63c4ff",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/alb.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/ALEALB01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/wl.webp"
@@ -284,6 +301,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+      "colortm" : "#63c4ff",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/sai.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/CARSAI01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/wl.webp"
@@ -300,6 +318,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+      "colortm" : "#b6babd",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/oco.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/ESTOCO01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/hs.webp"
@@ -316,6 +335,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+      "colortm" : "#b6babd",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/bea.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/OLIBEA01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/hs.webp"
@@ -332,6 +352,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+      "colortm" : "#202226",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/per.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/SERPER01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/rb.webp"
@@ -348,6 +369,7 @@
       "position": "0",
       "wins": "0",
       "podiums": "0",
+       "colortm" : "#202226",
       "image": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/bot.webp",
       "numimage": "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/Nme/VALBOT01.webp",
       "tmimage" : "https://raw.githubusercontent.com/xaxhex/Res-Proyect/main/_rp/Drvr/LogTm/st.webp"
